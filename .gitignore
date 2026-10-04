@@ -1,0 +1,10 @@
+heretic-env/
+__pycache__/
+.idea/
+.DS_Store
+# generated artifacts (weights are ~5 GB)
+models/
+checkpoints/
+results/
+config.toml
+plots/
